@@ -2,7 +2,7 @@
 
 > 🚧 Look for this icon for tips on how to craft an ideal PDR-style proposal. **Make sure that you remove these 🚧 hints before publishing!** The non-blockquoted text is meant to be a prompt and need not be kept if not appropriate for the context.
 
-> 🚧 Always begin the title with "Proposal: " and summarize the issue without stating the solution outright unless the solution is obvious and without a realistic alternative. Assume familiarity with terms but make obvious the benefits of acting on the proposal. Stating the date here conveys that the assumptions and research may be lose accuracy past that date.
+> 🚧 Always begin the title with "Proposal: " and summarize the issue without stating the solution outright unless the solution is obvious and without a realistic alternative. Assume familiarity with terms but make obvious the benefits of acting on the proposal. Stating the date here conveys that the assumptions and research may lose accuracy past that date.
 
 A proposal by `author(s)` for consideration by `date`.
 
