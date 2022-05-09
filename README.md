@@ -1,4 +1,4 @@
-# Writing Proposals in Problem-Diagnosis-Remedy Style
+# Writing Proposals in "Problem, Diagnosis, Remedy" Style
 
 "PDR style", as I call it, is a way of structuring a proposal that encourages the author to break the proposal summary into three short sections so that the summary is more easily digestable by executives and other decision makers.
 
