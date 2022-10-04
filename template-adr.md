@@ -1,3 +1,5 @@
+:warning: _View & copy this in raw mode to see the comments with hints._
+
 <!-- This is a barebones template specifically for using this PDR format within an Architecture Decision Record (ADR) -->
 
 # ?. XXX ADR TITLE
